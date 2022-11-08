@@ -1,7 +1,7 @@
-#  Evening at house, jailbirds
-Even cops don't take the last cig.
-# ✍️ About me
-🧑🏿‍🦽 My name is Danil, I am 20 years old. I started learning Swift in **2022**. I plan to develop my application soon.
+# 🗽 Evening at house, jailbirds
+👮🏼‍♂️Even cops don't take the last cig.
+#  About me
+ My name is Danil, I am 20 years old. I started learning Swift in **2022**. I plan to develop my application soon.
 
 👹 Now I'm studying at [School21](https://21-school.ru/)
 I write code and unit tests in pure C.
