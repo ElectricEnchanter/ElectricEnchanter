@@ -1,5 +1,5 @@
 # 👋 Hello there 
-I bring order to the chaos and constantly develop.
+Последнюю сигу даже мусора не стреляют.
 # ✍️ About me
 ✌️ My name is Danil, I am 20 years old. I started learning Swift in **2022**. I plan to develop my application soon.
 
