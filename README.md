@@ -7,8 +7,6 @@
 I write code and unit tests in pure C.
 I am also good at bash scripting.
 I have experience with Git and Linux (mainly Ubuntu).
-I have a baggage of ready-made projects of projects on gitlab:
-(https://repos.21-school.ru/)
 I know English at a fairly confident level.
 I understand other people's code.
 Ability to work in a team and quickly find information
