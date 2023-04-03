@@ -16,9 +16,9 @@ I can work in a team and quickly find information.
 
 # 📈 My GitHub Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PulpuDev&theme=dark&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ElectricEnchanter&theme=dark&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PulpuDev&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElectricEnchanter&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 # 📭 My contacts
 
